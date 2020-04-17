@@ -1246,7 +1246,7 @@ a:focus {
 	}
 	#nav-tabContent {
 		background: #fff;
-	    padding: 65px 20px 10px 20px!important;
+	    padding: 20px!important;
 	    border: 1px solid #ccc;
 	}
 	#nav-tabContent strong {
