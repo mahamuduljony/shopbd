@@ -357,6 +357,9 @@
 	#top-bar .tp-right a::after {
 	    margin-left: 5px;
 	}
+	#top-bar .tp-right .cart-area .cart-icon a:nth-of-type(1)::after {
+	    margin-left: 18px;
+	}
 	#header-logo {
 	    height: 180px;
 	    padding: 15px 0;
@@ -390,6 +393,12 @@
 	.mean-container .mean-nav {
 	    background-color: #2D3436!important;
 	}
+	#menu-area .mean-container .mean-nav ul li a.mean-expand {
+	    background:transparent!important;
+	    border-left: 1px solid transparent !important;
+	    border-bottom: 1px solid transparent !important;
+	}
+
 	#menu-area ul li a i {
 		display: none;
 	}
